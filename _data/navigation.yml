@@ -17,15 +17,3 @@ main:
 
   - title: "Blog Posts(TA)"
     url: /tag-archive/
-
-  - title: "Blog Posts(CA)"
-    url: /category-archive/
-
-  - title: "Blog Posts(PA)"
-    url: /page-archive/
-
-  - title: "Blog Posts(CoA)"
-    url: /collection-archive/
-
-  - title: "Site Map"
-    url: /sitemap/
