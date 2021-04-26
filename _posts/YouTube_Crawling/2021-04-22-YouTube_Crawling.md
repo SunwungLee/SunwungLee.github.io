@@ -7,6 +7,5 @@ tags:
   - crawling
   - python
 ---
-notion link
+[notion link](https://www.notion.so/YouTube-crawling-09f1c7bf11864f36a1d9f13757f630c4)
 
-https://www.notion.so/YouTube-crawling-09f1c7bf11864f36a1d9f13757f630c4
