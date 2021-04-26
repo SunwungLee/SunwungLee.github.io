@@ -1,7 +1,7 @@
 ---
 title: 'Random lunch menu'
 date: 2021-04-26
-permalink: /posts/2021/05/blog-post-4/
+permalink: /posts/2021/04/blog-post-4/
 tags:
   - python
   - pandas

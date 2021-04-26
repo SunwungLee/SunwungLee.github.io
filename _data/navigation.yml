@@ -11,3 +11,6 @@ main:
         
   - title: "TIL"
     url: /year-archive/
+
+  - title: "TIL+test"
+    url: /today-i-learned/
