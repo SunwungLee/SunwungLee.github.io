@@ -7,7 +7,7 @@ tags:
   - crawling
   - python
 ---
-![test](./figures/dynamite.jpg)
+![test](/images/figures/dynamite.jpg)
 
 [notion link](https://www.notion.so/YouTube-crawling-09f1c7bf11864f36a1d9f13757f630c4)
 
